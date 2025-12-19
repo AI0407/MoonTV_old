@@ -20,9 +20,9 @@
 
 ## ✨ 示例
 
-试用网站：wb.haodene.com
-测试账户：test001
-测试密码: test001
+-试用网站：wb.haodene.com
+-测试账户：test001
+-测试密码: test001
 
 ## ✨ 功能特性
 
